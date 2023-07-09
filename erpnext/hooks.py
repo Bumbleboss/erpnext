@@ -440,7 +440,7 @@ default_mail_footer = """
 	<span>
 		Sent via
 		<a class="text-muted" href="https://erpnext.com?source=via_email_footer" target="_blank">
-			ERPNext
+			OKLENT ERP
 		</a>
 	</span>
 """
